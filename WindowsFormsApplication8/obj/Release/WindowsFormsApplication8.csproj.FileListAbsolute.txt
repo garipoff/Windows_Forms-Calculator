@@ -1,0 +1,8 @@
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.exe
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\WindowsFormsApplication8.pdb
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exe
+C:\Users\grf\Downloads\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.pdb
